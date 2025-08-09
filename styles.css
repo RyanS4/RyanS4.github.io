@@ -66,3 +66,13 @@
             text-shadow: 1px 1px 5px black;
             text-align: center;
     }
+
+    .paragraph {
+        text-align: center;
+        font-size: larger;
+    }
+
+    .underline-bold {
+        text-decoration: underline;
+        font-weight: bold;
+    }
